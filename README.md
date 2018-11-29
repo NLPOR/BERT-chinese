@@ -23,6 +23,10 @@ TODO
 
 TODO
 
+### TODO LIST
+
+GPU并行训练
+
 ### License
 
 MIT.
